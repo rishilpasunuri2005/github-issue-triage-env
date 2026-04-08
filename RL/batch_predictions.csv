@@ -1,4 +1,0 @@
-index,issue_id,title,prediction,action_index,features
-0,101,Need export to XML,RequestMoreInfo,2,"[1, 0, 0, 0]"
-1,102,Search broken,AddLabel(bug),0,"[0, 1, 1, 0]"
-2,103,Notifications not working,RequestMoreInfo,2,"[0, 0, 1, 0]"
