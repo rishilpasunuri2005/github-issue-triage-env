@@ -1,0 +1,3 @@
+name: github-issue-triage
+description: An environment that simulates a GitHub repository maintainer triaging issues.
+entrypoint: python inference.py
