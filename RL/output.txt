@@ -1,0 +1,100 @@
+========================================================================
+  GitHub Issue Triage ù Simulation Run
+========================================================================
+
+--- Step 1 | Issue #1 ---
+  Title          : Add dark mode support
+  Agent Action   : AddLabel
+  Agent Label    : enhancement
+  Expected Action: AddLabel
+  Expected Label : enhancement
+  Reward         : +1
+  Cumulative     : +1
+
+--- Step 2 | Issue #2 ---
+  Title          : App crashes when uploading large files
+  Agent Action   : AddLabel
+  Agent Label    : bug
+  Expected Action: AddLabel
+  Expected Label : bug
+  Reward         : +1
+  Cumulative     : +2
+
+--- Step 3 | Issue #3 ---
+  Title          : Support CSV export for reports
+  Agent Action   : AddLabel
+  Agent Label    : enhancement
+  Expected Action: AddLabel
+  Expected Label : enhancement
+  Reward         : +1
+  Cumulative     : +3
+
+--- Step 4 | Issue #4 ---
+  Title          : Login page is broken
+  Agent Action   : RequestMoreInfo
+  Agent Label    : None
+  Expected Action: RequestMoreInfo
+  Expected Label : None
+  Reward         : +2
+  Cumulative     : +5
+
+--- Step 5 | Issue #5 ---
+  Title          : Search results are wrong after filtering
+  Agent Action   : AddLabel
+  Agent Label    : bug
+  Expected Action: AddLabel
+  Expected Label : bug
+  Reward         : +1
+  Cumulative     : +6
+
+--- Step 6 | Issue #6 ---
+  Title          : Add keyboard shortcuts for common actions
+  Agent Action   : AddLabel
+  Agent Label    : enhancement
+  Expected Action: AddLabel
+  Expected Label : enhancement
+  Reward         : +1
+  Cumulative     : +7
+
+--- Step 7 | Issue #7 ---
+  Title          : Something is wrong with notifications
+  Agent Action   : RequestMoreInfo
+  Agent Label    : None
+  Expected Action: RequestMoreInfo
+  Expected Label : None
+  Reward         : +2
+  Cumulative     : +9
+
+--- Step 8 | Issue #8 ---
+  Title          : API rate limiting returns wrong HTTP status code
+  Agent Action   : AddLabel
+  Agent Label    : bug
+  Expected Action: AddLabel
+  Expected Label : bug
+  Reward         : +1
+  Cumulative     : +10
+
+--- Step 9 | Issue #9 ---
+  Title          : Dashboard widgets are not loading
+  Agent Action   : RequestMoreInfo
+  Agent Label    : None
+  Expected Action: RequestMoreInfo
+  Expected Label : None
+  Reward         : +2
+  Cumulative     : +12
+
+--- Step 10 | Issue #10 ---
+  Title          : Implement webhook support for integrations
+  Agent Action   : AddLabel
+  Agent Label    : enhancement
+  Expected Action: AddLabel
+  Expected Label : enhancement
+  Reward         : +1
+  Cumulative     : +13
+
+========================================================================
+  Simulation complete ù 10 issues processed.
+  Final cumulative reward: +13
+  Maximum possible reward: +13
+  Score: 13/13 (100%)
+========================================================================
