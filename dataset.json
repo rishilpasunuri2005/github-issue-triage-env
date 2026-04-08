@@ -1,0 +1,37 @@
+[
+  {
+    "issue_id": 1,
+    "title": "Add dark mode support",
+    "body": "It would be great if the application supported a dark mode theme. I'd love to see a toggle in settings.",
+    "expected_action": "AddLabel",
+    "expected_label": "enhancement"
+  },
+  {
+    "issue_id": 2,
+    "title": "App crashes when uploading large files",
+    "body": "Description: app crashes above 50MB. Steps to reproduce: open upload, choose large file, click upload, observe crash. Expected behavior: upload should succeed or show clear error.",
+    "expected_action": "AddLabel",
+    "expected_label": "bug"
+  },
+  {
+    "issue_id": 3,
+    "title": "Support CSV export for reports",
+    "body": "Please add CSV export support in addition to PDF for easier analysis.",
+    "expected_action": "AddLabel",
+    "expected_label": "enhancement"
+  },
+  {
+    "issue_id": 4,
+    "title": "Login page is broken",
+    "body": "The login page doesn't work. I can't log in. Please fix.",
+    "expected_action": "RequestMoreInfo",
+    "expected_label": null
+  },
+  {
+    "issue_id": 5,
+    "title": "Search results are wrong after filtering",
+    "body": "Bug report. Steps to reproduce: search invoices, apply last 7 days filter, stale results still show. Expected behavior: only last 7 days.",
+    "expected_action": "AddLabel",
+    "expected_label": "bug"
+  }
+]
